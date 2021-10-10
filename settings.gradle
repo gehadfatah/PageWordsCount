@@ -1,0 +1,5 @@
+include ':app'
+rootProject.name = "pageword"
+include ':data'
+include ':presentation'
+include ':domain'

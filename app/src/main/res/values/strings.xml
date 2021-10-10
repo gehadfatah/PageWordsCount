@@ -1,0 +1,19 @@
+<resources>
+    <string name="time_out_message">Looks like the server is taking to long to respond, this can be caused by either  poor connectivity or an error with our servers. Please try again in a while</string>
+    <string name="change_sort">Change Sort</string>
+    <string name="search">Search</string>
+    <string name="no_connection">No Internet Connection</string>
+    <string name="app_name">Word count</string>
+    <string name="shareSubject">IKhair Share</string>
+    <string name="nationality">nationality</string>
+    <string name="login_google">Continue with Google</string>
+    <string name="sign_in_with_email">Continue with Email</string>
+    <string name="login_facebook">Continue with Facebook</string>
+    <string name="sharing_that_trust">SHARING THAT TRUST</string>
+    <string name="create_new_account">Create new account?</string>
+    <string name="chat_with_us_via_whatsapp">Chat with us via WhatsApp</string>
+    <string name="con_with_email">Continue with Email</string>
+    <string name="error">unexpected Error</string>
+    <string name="cancel">cancel</string>
+    <string name="empty_words">no Words in this Page</string>
+</resources>
